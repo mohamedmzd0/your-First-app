@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">coffee shop</string>
+    <string name="text_address">Address: El-Gaish, Al Mahalah Al Kubra (Part 2), Al Mahalah Al Kubra, Gharbia Governorate</string>
+    <string name="text_phone">0132456789</string>
+    <string name="text_hour">7AM - 2 AM</string>
+    <string name="busines_image">image represent busines</string>
+</resources>
